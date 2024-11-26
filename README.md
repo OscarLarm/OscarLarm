@@ -2,7 +2,7 @@
 I'm currently studying at Blekinge Institute of Technology, BTH, in Sweden.
 
 ### Portfolio (WIP): [OscarLarm.com](https://OscarLarm.com)
-<img align="left" width="220" height="220" src="https://github.com/OscarLarm/OscarLarm/blob/main/qr_website.png?raw=true">
+<img align="left" width="200" height="200" src="https://github.com/OscarLarm/OscarLarm/blob/main/qr_website2.png?raw=true">
 
 <!--
 **OscarLarm/OscarLarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
